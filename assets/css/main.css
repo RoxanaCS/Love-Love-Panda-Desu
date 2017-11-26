@@ -1,3 +1,4 @@
+*{padding: 0;}
 body{
   margin: 0 auto;
   font-family: 'Roboto', sans-serif;
@@ -72,4 +73,12 @@ header{
   margin-left: 14em;
   border: 0.5em solid #FFF;
   margin-bottom: 3em;
+}
+.lazyPanda{
+  width: 100%;
+}
+footer{
+  background-color: #F78E69;
+  color: #FFF;
+  text-align: right;
 }
